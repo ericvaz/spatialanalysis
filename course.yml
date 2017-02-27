@@ -1,7 +1,7 @@
 title            : Introduction to Spatial Analysis in R
 instructors      : Eric Vaz
  - evaz@ryerson.ca
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
+description      : Spatial analysis is everywhere. The more our data is becoming ubiquitous the more we can use it to understand the geographical context of how things interact. Not only is spatial analysis an important aspect of data science, but the missing link of merging social and economic models for decision making. This course with introduce you to spatial analysis by means of discussing topics such as spatial autocorrelation, geostatistics, and regression modelling. It uses packages such as sp and advances with recent findings in the ever-growing literature of geocomputation. By the end of the course you will have understood the importance of spatial analysis, and how it integrates with demographic change, and the importance of spatial decision support systems. 
 university       : DataCamp
 difficulty_level : 2
 time_needed      : 1 hour
