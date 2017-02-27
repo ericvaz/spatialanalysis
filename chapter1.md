@@ -40,11 +40,11 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:cbd5013047
-## More movies
+## Adding a Shapefile in R
 
-In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
+In this exercise you will learn how to add a Shapefile into R
 
-A dataset with a selection of movies, `movie_selection`, is available in the workspace.
+A dataset called SIDS2 is available in the workspace.
 
 *** =instructions
 - Check out the structure of `movie_selection`.
